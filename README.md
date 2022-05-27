@@ -3,7 +3,6 @@
 
 
 ### **1. Clock**
- - Used: JavaScript, CSS and HTML
  - Created: 26/05/22
  
 ### **2.**
