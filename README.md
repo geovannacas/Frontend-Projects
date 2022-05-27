@@ -1,8 +1,11 @@
-# **Projetos #GoDev**
+# **Projects #GoDev | Íma Learning Place**
+## <p align="center">**Sumário**</p>
 
->*Github - Imã Learning Place*
 
+### **1. Clock**
+ - Used: JavaScript, CSS and HTML
+ - Created: 26/05/22
+ 
+### **2.**
 
-## **Sumário** 
-
-### *1.*
+ 
