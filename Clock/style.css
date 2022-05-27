@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("./url.png");
+    background: url("url.png");
     background-size: cover;
     height: 100vh;
 }
