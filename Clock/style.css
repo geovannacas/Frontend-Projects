@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url("background2.png");
+    background: url("./img/background2.png");
     background-size: cover;
     height: 100vh;
 }

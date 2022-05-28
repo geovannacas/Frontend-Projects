@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url("background.gif");
+    background: url("./img/background.gif");
     background-size: cover;
     height: 100vh;
 }
