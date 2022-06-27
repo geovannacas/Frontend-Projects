@@ -1,4 +1,4 @@
-# **Projects #GoDev | Íma Learning Place**
+# **Projects**
 ## <p align="center">**Sumário**</p>
 
 
