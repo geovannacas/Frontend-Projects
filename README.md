@@ -1,5 +1,5 @@
-# **Projects**
-## <p align="center">**Sumário**</p>
+# <p align="center">**Projects**</p>
+## <p align="center">**Summary**</p>
 
 
 ### **1. Clock**
@@ -17,6 +17,10 @@
 - Created: 29/05/22;
 - Used: HTML and CSS;
 
-### **4. Validator(CPF)**
+### **4. Validator (CPF)**
 - Created: 27/06/22;
 - Used: JavaScript;
+
+### **5. Chart (Tabela)**
+- Created: 28/06/22;
+- Used: HTML and CSS;
