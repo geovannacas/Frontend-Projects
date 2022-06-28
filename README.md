@@ -17,4 +17,6 @@
 - Created: 29/05/22;
 - Used: HTML and CSS;
 
- 
+### **4. Validator(CPF)**
+- Created: 27/06/22;
+- Used: JavaScript;
