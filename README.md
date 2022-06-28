@@ -20,7 +20,3 @@
 ### **4. Validator (CPF)**
 - Created: 27/06/22;
 - Used: JavaScript;
-
-### **5. Chart (Tabela)**
-- Created: 28/06/22;
-- Used: HTML and CSS;
