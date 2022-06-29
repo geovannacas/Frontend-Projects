@@ -8,6 +8,6 @@
 
 ### **3. Tinder Clone**
 
-### **3. Spotify Clone**
+### **4. Spotify Clone**
 
-### **4. Validator (CPF)**
+### **5. Validator (CPF)**
