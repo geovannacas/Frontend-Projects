@@ -11,4 +11,4 @@ Projects created:
 
 - CPF (Verification)
 
-- Tabela: <a href="https://tabelacampeonato.netlify.app/">Site do Projeto</a> (Dados tabulados referentes à classificação do Campeonato ACME de 2022).
+- Table: <a href="https://tabelacampeonato.netlify.app/">Site</a> (Tabulated data regarding the 2022 ACME Championship standings).
