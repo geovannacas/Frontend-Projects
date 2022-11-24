@@ -1,5 +1,4 @@
-# FrontEnd-Projects
-Projects created:
+# Projects:
 
 - Clock
 
