@@ -1,5 +1,5 @@
 # FrontEnd-Projects
-Projects created during the program:
+Projects created:
 
 - Clock
 
